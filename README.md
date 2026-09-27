@@ -18,5 +18,5 @@
 ---
 
 <p align="center">
-  💼 <a href="https://linkedin.com/in/franciscoaciole">LinkedIn</a>
+  <a href="https://linkedin.com/in/franciscoaciole"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
