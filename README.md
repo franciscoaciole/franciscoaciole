@@ -10,7 +10,6 @@
   <a href="https://github.com/franciscoaciole"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></a>
   <a href="https://github.com/franciscoaciole"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" /></a>
   <a href="https://github.com/franciscoaciole"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /></a>
-  <a href="https://github.com/franciscoaciole"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>
   <a href="https://github.com/franciscoaciole"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /></a>
 </p>
 
