@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Francisco ! </h1>
 
 <p align="center">
-  Estudante de Sistemas de Informação (Unit, Sergipe) construindo projetos full stack para entrar como dev júnior.
+  Estudante de Sistemas de Informação (Unit, Sergipe) construindo projetos para entrar como dev júnior.
 </p>
 
 <p align="center">
