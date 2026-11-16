@@ -41,6 +41,7 @@ Estudante de Sistemas de Informação com foco em back-end. Construo aplicaçõe
 
 **IA**
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Ferramentas e deploy**
