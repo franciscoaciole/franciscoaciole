@@ -10,7 +10,7 @@ Estudante de Sistemas de Informação com foco em back-end. Construo aplicaçõe
 
 ### Sobre
 
-- Curso **Sistemas de Informação** na Universidade Tiradentes (Unit), com formatura em **2028**.
+- Curso **Sistemas de Informação** na Universidade Tiradentes (Unit).
 - Desenvolvi e mantenho em produção o **Finan+**, aplicação full stack com **API REST**, autenticação **JWT**, banco **PostgreSQL** e **testes automatizados** no GitHub Actions.
 - Trabalho com **Node.js, Express e Prisma** no back-end, e com **React e TypeScript** no front-end.
 - Busco **estágio ou vaga júnior** em desenvolvimento back-end, em regime **remoto**.
